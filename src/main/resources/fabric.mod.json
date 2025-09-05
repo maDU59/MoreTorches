@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "MoreTorches",
+	"id": "moretorches",
 	"version": "${version}",
 	"name": "More Torches",
 	"description": "Add new torches to Minecraft",
@@ -16,7 +16,8 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod"
+			"com.example.ExampleMod",
+			"com.example.init.ModContent"
 		],
 		"client": [
 			"com.example.ExampleModClient"
