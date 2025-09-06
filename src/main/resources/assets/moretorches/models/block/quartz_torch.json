@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/torch",
+  "textures": {
+    "torch": "moretorches:block/quartz_torch",
+    "particle": "moretorches:block/quartz_torch"
+  },
+  "gui_light": "front"
+}

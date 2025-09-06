@@ -1,8 +1,7 @@
 {
-  "parent": "minecraft:block/torch",
+  "parent": "minecraft:block/wall_torch",
   "textures": {
     "torch": "moretorches:block/amethyst_torch",
     "particle": "moretorches:block/amethyst_torch"
-  },
-  "gui_light": "front"
+  }
 }

@@ -1,4 +1,20 @@
 {
   "block.moretorches.amethyst_torch": "Amethyst Torch",
-  "item.moretorches.amethyst_torch": "Amethyst Torch"
+  "item.moretorches.amethyst_torch": "Amethyst Torch",
+  "block.moretorches.lapis_torch": "Lapis Torch",
+  "item.moretorches.lapis_torch": "Lapis Torch",
+  "block.moretorches.netherite_torch": "Netherite Torch",
+  "item.moretorches.netherite_torch": "Netherite Torch",
+  "block.moretorches.copper_torch": "Copper Torch",
+  "item.moretorches.copper_torch": "Copper Torch",
+  "block.moretorches.iron_torch": "Iron Torch",
+  "item.moretorches.iron_torch": "Iron Torch",
+  "block.moretorches.emerald_torch": "Emerald Torch",
+  "item.moretorches.emerald_torch": "Emerald Torch",
+  "block.moretorches.quartz_torch": "Quartz Torch",
+  "item.moretorches.quartz_torch": "Quartz Torch",
+  "block.moretorches.diamond_torch": "Diamond Torch",
+  "item.moretorches.diamond_torch": "Diamond Torch",
+  "block.moretorches.gold_torch": "Gold Torch",
+  "item.moretorches.gold_torch": "Gold Torch"
 }

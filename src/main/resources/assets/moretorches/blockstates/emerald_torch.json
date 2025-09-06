@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "":    { "model": "moretorches:block/emerald_torch" }
+  }
+}

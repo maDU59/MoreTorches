@@ -16,12 +16,14 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.ExampleMod",
-			"com.example.init.ModContent"
+			"com.example.ExampleMod"
 		],
 		"client": [
 			"com.example.ExampleModClient"
-		]
+		],
+		"fabric-datagen": [ 
+    		"com.example.docs.datagen.FabricDocsReferenceDataGenerator"
+    	] 
 	},
 	"mixins": [
 		"modid.mixins.json",

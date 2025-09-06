@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/wall_torch",
+  "textures": {
+    "torch": "moretorches:block/iron_torch",
+    "particle": "moretorches:block/iron_torch"
+  }
+}

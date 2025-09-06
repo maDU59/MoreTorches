@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#",
+        "C",
+        "/"
+    ],
+    "key": {
+        "#": "moretorches:netherite_nugget",
+        "C": "#minecraft:coals",
+        "/": "minecraft:stick"
+    },
+    "result": {
+        "id": "moretorches:netherite_torch", 
+        "count": 4
+    }
+}

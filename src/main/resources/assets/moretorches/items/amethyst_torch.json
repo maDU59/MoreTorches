@@ -1,3 +1,6 @@
 {
-  "parent": "moretorches:block/amethyst_torch"
+  "model": {
+    "type": "model",
+    "model": "moretorches:block/amethyst_torch"
+  }
 }

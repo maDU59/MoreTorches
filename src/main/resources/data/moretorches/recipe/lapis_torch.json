@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#",
+        "C",
+        "/"
+    ],
+    "key": {
+        "#": "minecraft:lapis_lazuli_nugget",
+        "C": "#minecraft:coals",
+        "/": "minecraft:stick"
+    },
+    "result": {
+        "id": "moretorches:lapis_torch", 
+        "count": 4
+    }
+}
