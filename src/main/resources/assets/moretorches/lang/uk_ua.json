@@ -1,0 +1,21 @@
+{
+  "block.moretorches.amethyst_torch": "Аметистовий смолоскип",
+  "item.moretorches.amethyst_torch": "Аметистовий смолоскип",
+  "block.moretorches.lapis_torch": "Лазуритовий смолоскип",
+  "item.moretorches.lapis_torch": "Лазуритовий смолоскип",
+  "block.moretorches.netherite_torch": "Незеритовий смолоскип",
+  "item.moretorches.netherite_torch": "Незеритовий смолоскип",
+  "block.moretorches.copper_torch": "Мідний смолоскип",
+  "item.moretorches.copper_torch": "Мідний смолоскип",
+  "block.moretorches.iron_torch": "Залізний смолоскип",
+  "item.moretorches.iron_torch": "Залізний смолоскип",
+  "block.moretorches.emerald_torch": "Смарагдовий смолоскип",
+  "item.moretorches.emerald_torch": "Смарагдовий смолоскип",
+  "block.moretorches.quartz_torch": "Кварцовий смолоскип",
+  "item.moretorches.quartz_torch": "Кварцовий смолоскип",
+  "block.moretorches.diamond_torch": "Діамантовий смолоскип",
+  "item.moretorches.diamond_torch": "Діамантовий смолоскип",
+  "block.moretorches.gold_torch": "Золотий смолоскип",
+  "item.moretorches.gold_torch": "Золотий смолоскип",
+  "modmenu.descriptionTranslation.moretorches": "Додає нові смолоскипи до Minecraft"
+}
